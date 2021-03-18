@@ -1,0 +1,96 @@
+.box{
+    margin: 3px;
+    border: 10px solid white;
+    border-radius: 20px;
+    font-size: 79px;
+    text-align: center;
+}
+
+.general{
+    width: 80%;
+    height: 800px;
+    margin-top: 10%;
+}
+
+.general{
+    display: flex;
+    flex-direction: column;
+}
+
+.BC-father{
+    display: flex;
+    height: 65%;
+}
+
+.BCDE-father{
+ display: flex;
+ flex-direction: column;
+ height: 100%;
+ width: 70%;
+}
+
+.block-A{
+    background: darkblue;
+    height: 30%;
+}
+
+.block-B{
+    background: gold;
+    width: 70%;
+}
+
+.block-B2{
+    background: gold;
+    width: 97%;
+    height: 50%;
+}
+
+.FDE-father{
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+}
+
+.GHI-father{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 50%;
+}
+
+
+.block-C{
+    width: 30%;
+    background: #d400ff;
+}
+
+.block-F{
+   background: purple;
+}
+
+.block-D{
+    background: #a00a2e;
+}
+
+.block-E{
+    background: orange;
+}
+
+.block-G{
+    width: 33%;
+    background: purple;
+}
+
+.block-H{
+    background: #a00a2e;
+    width: 33%;
+}
+
+.block-I{
+    width: 33%;
+    background: orange;
+}
+
+.FDE{
+    width: 32%;
+    height: auto;
+}
